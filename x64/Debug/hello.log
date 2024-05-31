@@ -1,0 +1,9 @@
+﻿  hello.cpp
+C:\Users\darkchii\Documents\source\repos\hello\hello.cpp(33,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\darkchii\Documents\source\repos\hello\hello.cpp(33,26): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\darkchii\Documents\source\repos\hello\hello.cpp(70,19): warning C4244: “return”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+  hello.vcxproj -> C:\Users\darkchii\Documents\source\repos\hello\x64\Debug\hello.exe

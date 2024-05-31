@@ -1,0 +1,3 @@
+D:\source\repos\hello\x64\Debug\hello.exe
+D:\source\repos\hello\x64\Debug\hello.pdb
+C:\Users\darkchii\Documents\source\repos\hello\x64\Debug\hello.exe
